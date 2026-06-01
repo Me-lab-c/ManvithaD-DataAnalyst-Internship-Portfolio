@@ -1,0 +1,9 @@
+                                                   **Key Insights**
+
+1. Most restaurants belong to the dining category, indicating higher customer preference for dine-in experiences.
+
+2. A large number of restaurants have ratings close to 5, while only a few restaurants achieved ratings near 10, showing scope for service improvement.
+
+3. Out of 148 restaurants, the majority are low-cost restaurants, indicating strong customer demand for budget-friendly food options.
+
+4. Online ordering is highly preferred among restaurants, while only 8 restaurants provide table booking facilities, suggesting limited adoption of reservation systems.
