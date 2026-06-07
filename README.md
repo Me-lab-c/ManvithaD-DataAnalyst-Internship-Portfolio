@@ -155,3 +155,8 @@ This internship portfolio reflects my practical knowledge, technical skills, and
 It has significantly strengthened my understanding of Data Analytics, SQL, dashboarding, business intelligence, and professional project presentation.
 
 ---
+## Github
+https://github.com/Me-lab-c
+
+## Linkedin
+https://www.linkedin.com/in/manvitha-devathi/
