@@ -1,0 +1,49 @@
+```css
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+section {
+    padding: 30px;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills li {
+    display: inline-block;
+    background: #222;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+a {
+    display: inline-block;
+    margin-right: 15px;
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: bold;
+}
+```
