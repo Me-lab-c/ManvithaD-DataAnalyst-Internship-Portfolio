@@ -39,6 +39,7 @@ Performed Exploratory Data Analysis on a real-world dataset to identify patterns
 * Seaborn
 
 ## Task 2 – SQL Analysis & Dashboard Development
+https://github.com/Me-lab-c/ManvithaD-DataAnalyst-Internship-Portfolio/tree/main/Task%202
 
 ### Description
 
