@@ -16,6 +16,7 @@ https://me-lab-c.github.io/ManvithaD-DataAnalyst-Internship-Portfolio/
 # Internship Tasks
 
 ## Task 1 – Exploratory Data Analysis (EDA)
+https://github.com/Me-lab-c/ManvithaD-DataAnalyst-Internship-Portfolio/tree/main/Task%201
 
 ### Description
 
